@@ -1,0 +1,21 @@
+Invoice #21
+18/07/2022
+
+Customer:
+Shurthi
+shurthi@gmail.com
+
+Item bought:
+Computers
+
+quantity
+1
+
+Cost:
+$250/-
+
+Taxes:
+$9.99/-
+
+sub total:
+$259.99/-
